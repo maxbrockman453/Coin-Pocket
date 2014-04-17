@@ -1,0 +1,17 @@
+h1{
+  color: orange;
+  font-size: 5em;
+  text-align: center;
+
+}
+body {
+  background-color:maroon;
+}
+p {
+  color: white;
+  font-size: 1em;
+  text-align: center;
+}
+form.game-input{
+  position: absolute;
+}

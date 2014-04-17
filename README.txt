@@ -1,0 +1,1 @@
+This is a guessing game that I made while in the Foundations 1 course! I’m now learning how to communicate with and put things on github!
